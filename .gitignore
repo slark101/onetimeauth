@@ -63,3 +63,7 @@ node_modules/
 
 # dotenv environment variables file
 .env
+
+one-time-password-b5524-firebase-adminsdk-x2oe7-c8f21f115d\.json
+
+functions/service_account\.json
